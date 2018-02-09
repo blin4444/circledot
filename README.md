@@ -1,2 +1,2 @@
 # circledot
-Blogging Platform using PHP and MySQL
+A simple blogging platform written in PHP
